@@ -5,7 +5,7 @@ By NriotHrreion
 ## 下载
 
 ```cmd
-npm i uinblunx
+npm i uinblunx.js
 ```
 
 ## 使用
