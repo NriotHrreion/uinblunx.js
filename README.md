@@ -43,6 +43,12 @@ media.load(function(result) {
 });
 ```
 
+### 查看示例
+
+```cmd
+npm run example
+```
+
 ## LICENSE
 
 [MIT](./LICENSE)

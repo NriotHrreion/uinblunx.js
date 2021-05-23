@@ -1,10 +1,11 @@
 {
   "name": "uinblunx.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "uinblunx.js",
   "scripts": {
-    "start": "node scripts/start"
+    "example": "node scripts/start",
+    "build": "uglifyjs uinblunx.js -c -m -o uinblunx.min.js"
   },
   "author": "NriotHrreion",
   "license": "MIT",
